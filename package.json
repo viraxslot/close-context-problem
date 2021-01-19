@@ -1,0 +1,21 @@
+{
+    "name": "close-context-problem",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha --config=.mocharc.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/mocha": "^8.2.0",
+        "config": "^3.3.3",
+        "lodash": "^4.17.20",
+        "mocha": "^8.2.1",
+        "playwright": "^1.8.0-next-1611032356000",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.1.3"
+    }
+}
